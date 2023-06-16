@@ -80,5 +80,5 @@ There are some complications:
 * Lastly, the NaN/Null value used by PySpark makes sorting values involving Nan/Null and numeric values problematic
 
 ## Output
-- [RDD Output:](top-subsample-rdd.png)
-- [Dataframe Output:](top-10-same-state-patents.png)
+- [RDD Output](top-subsample-rdd.png)
+- [Dataframe Output](top-10-same-state-patents.png)
